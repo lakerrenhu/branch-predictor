@@ -1,1 +1,2 @@
 # branch-predictor
+#SMITH N-BIT COUNTER PREDICTOR, BIMODAL PREDICTOR, GSHARE PREDICTOR, hybrid predictor
